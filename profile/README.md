@@ -1,5 +1,7 @@
 # Quantitative Data Analysis for Social Scientists: An Open-Access Course Collection
 
+<img src="https://raw.githubusercontent.com/czymaraclass/intros/refs/heads/main/czymara_courses_logo.png" alt="Logo">
+
 [Czymara Courses](https://github.com/czymaraclass) is an open-access collection dedicated to quantitative data analysis. These courses cover a range of skills, ranging from foundational programming to advanced techniques. In particular, the courses include:
 
 - [Introductions to R and Python](https://github.com/czymaraclass/intros): Two Colabs¹ ²
