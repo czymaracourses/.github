@@ -5,7 +5,7 @@
 [Czymara Courses](https://github.com/czymaracourses) is an open-access collection dedicated to quantitative data analysis. These courses cover a range of skills, ranging from foundational programming to advanced techniques. In particular, the courses include:
 
 - [Introductions to R and Python](https://github.com/czymaracourses/intros): Two Colabs¹ ²
-- [Computational Social Science](https://github.com/czymaracourses/CSS_WS24): Semester-long research training¹ ²
+- [Computational Social Science](https://github.com/czymaracourses/CSS): Semester-long research training¹ ²
 - [Topic Modelling](https://github.com/czymaracourses/TopicModelling): Workshop¹ ²
 - [Analysis of Longitudinal Data](https://github.com/czymaracourses/LongDataAnalysis): Semester-long research training¹; also available in a [condensed format](https://github.com/czymaracourses/PanelReg)¹ (currently offline)
 - [Comparative Social Research with Multi-level Modelling](https://github.com/czymaracourses/CompSocResearch): Semester-long research training¹
