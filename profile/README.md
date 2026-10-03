@@ -1,14 +1,14 @@
 # Quantitative Data Analysis for Social Scientists: An Open-Access Course Collection
 
-<img src="https://raw.githubusercontent.com/czymaraclass/intros/refs/heads/main/czymara_courses_logo.png" alt="Logo">
+<img src="https://raw.githubusercontent.com/czymaracourses/intros/refs/heads/main/czymara_courses_logo.png" alt="Logo">
 
-[Czymara Courses](https://github.com/czymaraclass) is an open-access collection dedicated to quantitative data analysis. These courses cover a range of skills, ranging from foundational programming to advanced techniques. In particular, the courses include:
+[Czymara Courses](https://github.com/czymaracourses) is an open-access collection dedicated to quantitative data analysis. These courses cover a range of skills, ranging from foundational programming to advanced techniques. In particular, the courses include:
 
-- [Introductions to R and Python](https://github.com/czymaraclass/intros): Two Colabs¹ ²
-- [Computational Social Science](https://github.com/czymaraclass/CSS_WS24): Semester-long research training¹ ²
-- [Topic Modelling](https://github.com/czymaraclass/TopicModelling): Workshop¹ ²
-- [Analysis of Longitudinal Data](https://github.com/czymaraclass/LongDataAnalysis): Semester-long research training¹; also available in a [condensed format](https://github.com/czymaraclass/PanelReg)¹ (currently offline)
-- [Comparative Social Research with Multi-level Modelling](https://github.com/czymaraclass/CompSocResearch): Semester-long research training¹
+- [Introductions to R and Python](https://github.com/czymaracourses/intros): Two Colabs¹ ²
+- [Computational Social Science](https://github.com/czymaracourses/CSS_WS24): Semester-long research training¹ ²
+- [Topic Modelling](https://github.com/czymaracourses/TopicModelling): Workshop¹ ²
+- [Analysis of Longitudinal Data](https://github.com/czymaracourses/LongDataAnalysis): Semester-long research training¹; also available in a [condensed format](https://github.com/czymaracourses/PanelReg)¹ (currently offline)
+- [Comparative Social Research with Multi-level Modelling](https://github.com/czymaracourses/CompSocResearch): Semester-long research training¹
 
 ¹ in R
 ² in Python
@@ -22,4 +22,4 @@ I specialize in teaching courses focused on quantitative methods and research de
 ## Experience
 
 The student evaluations reflect the consistent positive reception of my courses:
-<img src="https://raw.githubusercontent.com/czymaraclass/evaluations/refs/heads/main/evalovertime.png" alt="Evaluation Over Time" style="width:50%;">
+<img src="https://raw.githubusercontent.com/czymaracourses/evaluations/refs/heads/main/evalovertime.png" alt="Evaluation Over Time" style="width:50%;">
